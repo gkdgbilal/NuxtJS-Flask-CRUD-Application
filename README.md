@@ -1,0 +1,1 @@
+# NuxtJS-Flask-CRUD-Application
